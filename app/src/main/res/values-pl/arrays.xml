@@ -5,29 +5,29 @@
     <!-- Holder -->
     <string-array name="holder_menu">
         <item>Pierwszy plan</item>
-        <item>Skopiuj link</item>
-        <item>Udział</item>
+        <item>Kopiuj link</item>
+        <item>Udostępnij</item>
     </string-array>
 
     <!-- List -->
     <string-array name="list_menu">
-        <item>Nowa zakładka</item>
-        <item>Skopiuj link</item>
-        <item>Udział</item>
-        <item>Edycja</item>
-        <item>Usunąć</item>
+        <item>Nowa zakłądka</item>
+        <item>Kopiuj link</item>
+        <item>Udostępnij</item>
+        <item>Edytuj</item>
+        <item>Kasuj</item>
     </string-array>
 
     <!-- Main -->
     <string-array name="main_overflow">
         <item>Idź do góry</item>
-        <item>Dodaj do domu</item>
-        <item>Znajdź na stronie</item>
-        <item>Zrzut ekranu</item>
+        <item>Dodaj</item>
+        <item>Szukaj na stroni</item>
+        <item>Screenshot</item>
         <item>Readability</item>
-        <item>Udział</item>
+        <item>Udostepnij</item>
         <item>Relayout</item>
-        <item>Porzucić</item>
+        <item>Wyjdź</item>
     </string-array>
 
     <!-- Search engine -->
